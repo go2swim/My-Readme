@@ -124,5 +124,5 @@
 ---
 
 <div align="center">
-  <img src="https://tenor.com/ru/view/machinarium-gif-21647291.gif" alt="Machinarium GIF" width="450"/>
+  <img src="https://c.tenor.com/dnsOcEdHI8kAAAAd/tenor.gif" alt="Machinarium GIF" width="450"/>
 </div>
