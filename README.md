@@ -40,3 +40,79 @@
   <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> 
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
 </div>
+
+---
+
+### 🚀 My Projects
+
+#### 🤖 ML
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/go2swim/kaggle-NLP-reviews-in-store">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=kaggle-NLP-reviews-in-store&theme=tokyonight&show_owner=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/go2swim/Rasa-for-Unit-Hack">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=Rasa-for-Unit-Hack&theme=tokyonight&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/go2swim/Classical_ml_contest">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=Classical_ml_contest&theme=tokyonight&show_owner=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/go2swim/CV-kaggle-contest">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=CV-kaggle-contest&theme=tokyonight&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+#### 🐍 Python
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/go2swim/Simple-3D-Editor-on-Python">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=Simple-3D-Editor-on-Python&theme=tokyonight&show_owner=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/go2swim/PyCloud">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=PyCloud&theme=tokyonight&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+#### 🌐 Web Projects
+<div align="left">
+  <a href="http://195.133.66.226/">
+    <img src="https://img.shields.io/badge/View_RandIt-5A67D8?style=for-the-badge&logo=kdenlive&logoColor=white" alt="RandIt Website"/>
+  </a>
+    
+  <a href="https://comforting-pastelito-336920.netlify.app/">
+    <img src="https://img.shields.io/badge/View_History-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="History Website"/>
+  </a>
+</div>
+
+
+#### 🎮 Game Development
+<table>
+  <tr>
+    <td width="50%">
+      <a href="https://github.com/go2swim/fromNandToHell">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=fromNandToHell&theme=tokyonight&show_owner=true" />
+      </a>
+    </td>
+    <td width="50%">
+      <a href="https://github.com/go2swim/Teeworlds">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=Teeworlds&theme=tokyonight&show_owner=true" />
+      </a>
+    </td>
+  </tr>
+</table>
