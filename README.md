@@ -47,24 +47,24 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/go2swim/kaggle-NLP-reviews-in-store">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=kaggle-NLP-reviews-in-store&theme=tokyonight&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=kaggle-NLP-reviews-in-store&theme=default&show_owner=true" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/go2swim/Rasa-for-Unit-Hack">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=Rasa-for-Unit-Hack&theme=tokyonight&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=Rasa-for-Unit-Hack&theme=default&show_owner=true" />
       </a>
     </td>
   </tr>
   <tr>
     <td width="50%">
       <a href="https://github.com/go2swim/Classical_ml_contest">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=Classical_ml_contest&theme=tokyonight&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=Classical_ml_contest&theme=default&show_owner=true" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/go2swim/CV-kaggle-contest">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=CV-kaggle-contest&theme=tokyonight&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=CV-kaggle-contest&theme=default&show_owner=true" />
       </a>
     </td>
   </tr>
@@ -75,12 +75,12 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/go2swim/Simple-3D-Editor-on-Python">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=Simple-3D-Editor-on-Python&theme=tokyonight&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=Simple-3D-Editor-on-Python&theme=default&show_owner=true" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/go2swim/PyCloud">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=PyCloud&theme=tokyonight&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=PyCloud&theme=default&show_owner=true" />
       </a>
     </td>
   </tr>
@@ -103,12 +103,12 @@
   <tr>
     <td width="50%">
       <a href="https://github.com/go2swim/fromNandToHell">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=fromNandToHell&theme=tokyonight&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=fromNandToHell&theme=default&show_owner=true" />
       </a>
     </td>
     <td width="50%">
       <a href="https://github.com/go2swim/Teeworlds">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=Teeworlds&theme=tokyonight&show_owner=true" />
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=go2swim&repo=Teeworlds&theme=default&show_owner=true" />
       </a>
     </td>
   </tr>
